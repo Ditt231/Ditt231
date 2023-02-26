@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mochamad Aditya Putra Artinugraha</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/83396081/221397720-7c94f7cd-1a44-4bd9-b307-672db6f7b0d0.png)">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/83396081/221397720-7c94f7cd-1a44-4bd9-b307-672db6f7b0d0.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditt231&label=Profile%20views&color=0e75b6&style=plastic" alt="ditt231" /> </p>
